@@ -4,7 +4,8 @@
 
 ###
 
-<h3 align="center">Hello World<br>Me chamo Nicoly, estou cursando o terceiro semestre de Análise e Desenvolvimento de Sistemas e atualmente sou estagiária no INSS (Instituto Nacional do Seguro Social), atuando na área de Previdência Social.</h3>
+<h3 align="center">Hello World!
+Meu nome é Nicoly, estou cursando o terceiro semestre de Análise e Desenvolvimento de Sistemas e, atualmente, atuo como estagiária no INSS (Instituto Nacional do Seguro Social). Busco constantemente aprimorar meus conhecimentos e desenvolver minhas habilidades na área de tecnologia.</h3>
 
 ###
 
