@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fid%3D3133766242&psig=AOvVaw0nyK1uj7Nh9ROV_sP1nnKh&ust=1741023076622000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCODCi7v264sDFQAAAAAdAAAAABAE"  />
+  <img height="200" src="https://64.media.tumblr.com/578b522ea5a5b71affc7f09ebb451e28/27ddc0c6bca7bcf8-26/s640x960/8acbf7a63001c914ff09abbdc3d7ef65f38df801.gif"  />
 </div>
 
 ###
