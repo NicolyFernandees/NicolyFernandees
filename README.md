@@ -1,10 +1,10 @@
 <div align="center">
-  <img height="200" src="https://media1.tenor.com/m/KZ1Q7J2RvDEAAAAC/jujutsu-kaisen-jjk.gif"  />
+  <img height="200" src="https://media1.tenor.com/m/FX0J3ckDyx8AAAAC/geto-suguru-yo.gif"  />
 </div>
 
 ###
 
-<h3 align="center">Hello World <br>Me chamo Nicoly, estou cursando o terceiro semestre de Análise e Desenvolvimento de Sistemas e atualmente sou estagiária no INSS (Instituto Nacional do Seguro Social), atuando na área de Previdência Social.</h3>
+<h3 align="center">Hello World!<br>Me chamo Nicoly, estou cursando o terceiro semestre de Análise e Desenvolvimento de Sistemas e atualmente sou estagiária no INSS (Instituto Nacional do Seguro Social), atuando na área de Previdência Social.</h3>
 
 ###
 
